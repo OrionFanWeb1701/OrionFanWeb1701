@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi I'am Luke 👋
 
-<!--
-**OrionFanWeb1701/OrionFanWeb1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/łukasz-romanek)<br><br>
 
-Here are some ideas to get you started:
+My name is Luke :eyes: and I have been learning programming for a few months now. <br><br>  
+ :mortar_board: :books: Improving my front-end skills I am currently focusing on learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <img align="left" width="25px" alt="html" src="https://img.icons8.com/color/344/html-5--v1.png" />  HTML 5<br>
+- <img align="left" width="25px" alt="css" src="https://img.icons8.com/color/344/css3.png" /> CSS 3<br>
+- <img align="left" width="25px" alt="sass" src="https://img.icons8.com/color/344/sass.png" /> SASS preprocessor<br>
+- <img align="left" width="25px" alt="javascript" src="https://img.icons8.com/color/344/javascript--v1.png" /> JavaScript<br>
+- <img align="left" width="25px" alt="bootstrap" src="https://img.icons8.com/color/344/bootstrap.png" /> Bootstrap<br>
+- <img align="left" width="25px" alt="git" src="https://img.icons8.com/color/344/git.png" /> Git / GitHub<br>
+- <img align="left" width="25px" alt="gulp" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-color-tal-revivo.png" /> Gulp<br>
+- <img align="left" width="25px" alt="adobexd" src="https://img.icons8.com/color/344/adobe-xd--v1.png" /> Adobe xD<br><br>
+- BEM methodology
+- SEO<br><br>
+
+:construction: :wrench: Despite the fact that I just started my adventure with programming I try to create my own small projects whose base, meticulously will grow. I invite you to watch and analyze. Any comments welcome. :mag:
+
+For more information please visit my website: http://designweborion.pl
