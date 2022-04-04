@@ -3,7 +3,7 @@
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/łukasz-romanek)<br><br>
 
 My name is Luke :eyes: and I have been learning programming for a few months now. I'm from Poland so all my projects are in Polish.<br><br>  
- :mortar_board: :books: Improving my front-end skills I am currently focusing on learning:
+ :mortar_board: :books: Improving my front-end skills I am currently focusing on learning:<br><br>
 
 <img align="left" width="25px" alt="html" src="https://img.icons8.com/color/344/html-5--v1.png" />  HTML 5<hr>
 <img align="left" width="25px" alt="css" src="https://img.icons8.com/color/344/css3.png" /> CSS 3<hr>
