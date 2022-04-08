@@ -12,7 +12,6 @@ My name is Luke :eyes: and I have been learning programming for a few months now
 <img align="left" width="25px" alt="bootstrap" src="https://img.icons8.com/color/344/bootstrap.png" /> Bootstrap<hr>
 <img align="left" width="25px" alt="git" src="https://img.icons8.com/color/344/git.png" /> Git / GitHub<hr>
 <img align="left" width="25px" alt="gulp" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-color-tal-revivo.png" /> Gulp<hr>
-<img align="left" width="25px" alt="adobexd" src="https://img.icons8.com/color/344/adobe-xd--v1.png" /> Adobe xD<hr>
 <img align="left" width="25px" alt="bem" src="https://img.icons8.com/fluency/344/left-view.png" /> BEM methodology<hr>
 <img align="left" width="25px" alt="seo" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-seo-web-development-flaticons-flat-flat-icons-2.png" /> SEO<br><br>
 
