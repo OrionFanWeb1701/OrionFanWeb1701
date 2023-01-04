@@ -10,6 +10,7 @@ My name is Luke :eyes: and I have been learning programming for a few months now
 <img align="left" width="25px" alt="sass" src="https://img.icons8.com/color/344/sass.png" /> SASS preprocessor<hr>
 <img align="left" width="25px" alt="javascript" src="https://img.icons8.com/color/344/javascript--v1.png" /> JavaScript<hr>
 <img align="left" width="25px" alt="bootstrap" src="https://img.icons8.com/color/344/bootstrap.png" /> Bootstrap<hr>
+<img align="left" width="25px" alt="css" src="https://img.icons8.com/color/344/react.png" /> React<hr>
 <img align="left" width="25px" alt="git" src="https://img.icons8.com/color/344/git.png" /> Git / GitHub<hr>
 <img align="left" width="25px" alt="gulp" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-color-tal-revivo.png" /> Gulp<hr>
 <img align="left" width="25px" alt="bem" src="https://img.icons8.com/fluency/344/left-view.png" /> BEM methodology<hr>
